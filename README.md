@@ -20,8 +20,8 @@ Small, inspectable capability demos with runnable source, explicit truth boundar
 
 **Live demos:** https://itsmeb-lab.github.io/wilke-public-labs/
 
-### [AppRescue.ai](https://github.com/itsmeb-lab/apprescue-public)
-Public source for practical tools and guidance around app portability, release evidence, running costs, and rescuing AI-built applications.
+### AppRescue.ai
+Practical tools and guidance around app portability, release evidence, running costs, and rescuing AI-built applications. Product source and internal development stay private.
 
 **Live site:** https://apprescue.ai
 
