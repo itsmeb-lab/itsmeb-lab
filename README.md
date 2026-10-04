@@ -1,40 +1,49 @@
 # Brandon Wilke
 
-### Practical automation · Workflow reliability · AI-assisted operations
+### AI Automation & Agent Developer · APIs · CRM · Voice AI
 
-I build systems for businesses that need **less manual work, fewer broken handoffs, and clearer operating visibility**.
+I build practical AI automation systems that replace repetitive business work, connect the tools teams already use, and keep important actions observable and recoverable.
 
-My work tends to sit where operations, software, and automation meet: making repetitive workflows easier to run, easier to inspect, and easier to recover when something breaks.
+**Available for selective freelance and contract work.**
 
-## What I build
+[**Hire / message me on Upwork**](https://www.upwork.com/freelancers/~019f8d1b56a7ac81d6) · [Services](https://wilkeway.com/services/) · [Live capability demos](https://itsmeb-lab.github.io/wilke-public-labs/) · [Email](mailto:hello@wilkeway.com)
 
-- **Workflow automation & orchestration** — removing repetitive handoffs without hiding important decisions.
-- **Reliability & recovery systems** — watchdogs, bounded retries, health checks, and failure-aware workflows.
-- **AI-assisted operations** — using AI where it helps while keeping deterministic guardrails around consequential actions.
-- **Practical internal tools** — small-business and operations software focused on useful outcomes instead of feature count.
+## What I can help with
+
+- **AI agents** — intake, qualification, scheduling, follow-up, and internal workflows.
+- **CRM & lead-routing automation** — reduce manual handoffs between forms, inboxes, spreadsheets, and CRMs.
+- **Voice AI / phone automation** — practical calling and receptionist workflows with clear human handoff.
+- **API & SaaS integrations** — connect the systems that already run the business.
+- **n8n / Make / Zapier workflows** — automate repetitive operations without turning them into a black box.
+- **OpenAI / Claude / LLM integrations** — use models where they add value while keeping deterministic controls around consequential actions.
+- **Reliability & recovery** — retries, idempotency, health checks, logging, approvals, and failure-aware automation.
 
 ## Public proof
 
-### [Wilke Public Labs](https://github.com/itsmeb-lab/wilke-public-labs)
-Small, inspectable capability demos with runnable source, explicit truth boundaries, and reproducible tests.
+### [Automation Reliability Lab](https://itsmeb-lab.github.io/wilke-public-labs/automation-reliability-lab/)
 
-**Live demos:** https://itsmeb-lab.github.io/wilke-public-labs/
+Interactive browser demo showing deterministic workflow state, bounded retries, duplicate suppression, explicit approval gates, and downloadable event receipts.
 
-### AppRescue.ai
-Practical tools and guidance around app portability, release evidence, running costs, and rescuing AI-built applications. Product source and internal development stay private.
+[Live demo](https://itsmeb-lab.github.io/wilke-public-labs/automation-reliability-lab/) · [Source](https://github.com/itsmeb-lab/wilke-public-labs/tree/main/automation-reliability-lab)
 
-**Live site:** https://apprescue.ai
+### [Windows Process Recovery Watchdog](https://itsmeb-lab.github.io/wilke-public-labs/windows-process-recovery-watchdog/)
+
+A small recovery system demonstrating start-when-absent behavior, duplicate-start prevention, crash recovery, and timestamped receipts.
+
+[Live demo](https://itsmeb-lab.github.io/wilke-public-labs/windows-process-recovery-watchdog/) · [Source](https://github.com/itsmeb-lab/wilke-public-labs/tree/main/windows-process-recovery-watchdog)
+
+> These are public capability demonstrations, not claims of paid-client production results.
 
 ## How I work
 
-**Proof over claims.**  
-**Automate the routine; keep clear human gates for consequential actions.**  
-**Build observability and recovery in from the beginning.**  
-**Keep private infrastructure, credentials, and customer data out of public repositories.**
+- **Start with the smallest useful end-to-end outcome.**
+- **Reuse the existing stack when it makes sense instead of forcing a rebuild.**
+- **Make failure behavior visible and testable.**
+- **Keep human approval around consequential actions.**
+- **Document the handoff so the system remains understandable after delivery.**
 
 ## Work with me
 
-I’m available for selective automation, workflow, reliability, and internal-tooling projects.
+If your team is still moving information manually between inboxes, forms, spreadsheets, CRMs, phone calls, and AI tools, send me the workflow and where it breaks.
 
-- **Web:** https://wilkeway.com
-- **Email:** hello@wilkeway.com
+**Best next step:** [message me on Upwork](https://www.upwork.com/freelancers/~019f8d1b56a7ac81d6) or visit [wilkeway.com/services](https://wilkeway.com/services/).
